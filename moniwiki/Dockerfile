@@ -1,5 +1,5 @@
 FROM ubuntu:14.04
-MAINTAINER Daekwon Kim <propellerheaven@gmail.com>
+MAINTAINER ilsang jang <jailbk@gmail.com>
 
 # Install basic packages
 RUN \
